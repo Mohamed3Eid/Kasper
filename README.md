@@ -13,7 +13,11 @@ It is designed to showcase modern layout techniques, smooth animations, and mobi
 
 ## 🚀 How to Use
 
-- Clone or download the repository: git clone git@github.com:Mohamed3Eid/Kasper.git
+- Clone or download the repository:
+
+```bash
+git clone git@github.com:Mohamed3Eid/Kasper.git
+```
 
 ## Live Demo
 
