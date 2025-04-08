@@ -13,8 +13,8 @@ It is designed to showcase modern layout techniques, smooth animations, and mobi
 
 ## 🚀 How to Use
 
-1. Clone or download the repository: git clone https://github.com/your-username/kasper.git
+- Clone or download the repository: git clone git@github.com:Mohamed3Eid/Kasper.git
 
 ## 📬 Contact
 
-Made with by Mohamed Eid 📧 Email: mohamed.3eid@outlook.com
+- Made with by Mohamed Eid 📧 Email: mohamed.3eid@outlook.com
